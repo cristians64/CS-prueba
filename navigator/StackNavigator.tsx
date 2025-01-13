@@ -19,7 +19,7 @@ interface Routes{
 
 //no autenticados
 const routesNoAuth: Routes[] =[
-  //{name:"WelcomeScreen",screen:WelcomeScreen},
+  {name:"WelcomeScreen",screen:WelcomeScreen},
   {name:"InicioScreen",screen:InicioScreen},
   {name:"RegisterScreen",screen:RegisterScreen}
 ]

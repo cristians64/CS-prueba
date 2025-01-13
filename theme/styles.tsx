@@ -46,5 +46,10 @@ export const styles = StyleSheet.create({
         position:'absolute',
         bottom:20,
         right:15
+    },textlink2:{
+        color:"blue",
+        marginTop:20,
+        fontSize:40,
+        
     }
 })
